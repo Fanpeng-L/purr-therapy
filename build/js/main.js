@@ -1,3 +1,6 @@
+//dark mode switch
+
+//the mobile button
 const initApp = () => {
   const hamburgerBtn = document.getElementById("hamburger-button");
   const mobileMenu = document.getElementById("mobile-menu");
