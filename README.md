@@ -2,7 +2,7 @@
 
 Are you feeling a little down in life? Dear friend, for our team of expert **🐈Cat Therapists** is here to whisker you away to a realm of purrfection and joy!
 
-[Click here to try🔗](https://purr-therapy-tailwind-project.onrender.com)
+[Click here to try🔗]([https://purr-therapy-tailwind-project.onrender.com](https://fanpeng-l.github.io/purr-therapy/))
 
 👀 Preview:
 (Desktop version)  
