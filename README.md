@@ -4,7 +4,7 @@ Are you feeling a little down in life? Dear friend, for our team of expert **�
 
 [Click here to try🔗](https://purr-therapy-tailwind-project.onrender.com)
 
-Preview:
+👀 Preview:
 (Desktop version)  
 
 https://github.com/Fanpeng-L/tailwind-purr-therapy-project/assets/90544605/36d9d20e-fb92-477d-9579-69b062ab81f3
